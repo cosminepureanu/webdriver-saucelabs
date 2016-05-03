@@ -1,0 +1,11 @@
+{
+	"demo": {
+		"tests": "tests/demo.js",
+		"options": {
+			"desiredCapabilities": {
+				"name": "Demo search",
+				"browserName": "chrome"
+			}
+		}
+	}
+}
